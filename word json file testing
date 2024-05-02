@@ -1,0 +1,352 @@
+[
+  {
+    "number": 1,
+    "de or het": "de",
+    "dutch": "mens",
+    "english": "person",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 2,
+    "de or het": "de",
+    "dutch": "familie",
+    "english": "family",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 3,
+    "de or het": "het",
+    "dutch": "kind",
+    "english": "child",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 5,
+    "de or het": "de",
+    "dutch": "broer",
+    "english": "brother",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 6,
+    "de or het": "de",
+    "dutch": "zus",
+    "english": "sister",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 12,
+    "de or het": "het",
+    "dutch": "baby",
+    "english": "baby",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 13,
+    "de or het": "de",
+    "dutch": "man",
+    "english": "man",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 14,
+    "de or het": "de",
+    "dutch": "vrouw",
+    "english": "woman",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 17,
+    "de or het": "de",
+    "dutch": "vriend",
+    "english": "friend (male)",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 18,
+    "de or het": "de",
+    "dutch": "vriendin",
+    "english": "friend (female)",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 27,
+    "de or het": "de",
+    "dutch": "vader",
+    "english": "father",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 28,
+    "de or het": "de",
+    "dutch": "moeder",
+    "english": "mother",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 29,
+    "de or het": "de",
+    "dutch": "zoon",
+    "english": "son",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 30,
+    "de or het": "de",
+    "dutch": "dochter",
+    "english": "daughter",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 43,
+    "de or het": "de",
+    "dutch": "vriend",
+    "english": "boyfriend",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 44,
+    "de or het": "de",
+    "dutch": "vriendin",
+    "english": "girlfriend",
+    "difficulty_level": "A1"
+  },
+  {
+    "number": 4,
+    "de or het": "de",
+    "dutch": "ouder",
+    "english": "parent",
+    "difficulty_level": "A2"
+  },
+  {
+    "number": 7,
+    "de or het": "het",
+    "dutch": "grootouder",
+    "english": "grandparent",
+    "difficulty_level": "A2"
+  },
+  {
+    "number": 8,
+    "de or het": "de",
+    "dutch": "oom",
+    "english": "uncle",
+    "difficulty_level": "A2"
+  },
+  {
+    "number": 9,
+    "de or het": "de",
+    "dutch": "tante",
+    "english": "aunt",
+    "difficulty_level": "A2"
+  },
+  {
+    "number": 10,
+    "de or het": "het",
+    "dutch": "neef",
+    "english": "cousin (male)",
+    "difficulty_level": "A2"
+  },
+  {
+    "number": 11,
+    "de or het": "de",
+    "dutch": "nicht",
+    "english": "cousin (female)",
+    "difficulty_level": "A2"
+  },
+  {
+    "number": 23,
+    "de or het": "de",
+    "dutch": "liefde",
+    "english": "love",
+    "difficulty_level": "A2"
+  },
+  {
+    "number": 31,
+    "de or het": "het",
+    "dutch": "gezin",
+    "english": "family",
+    "difficulty_level": "A2"
+  },
+  {
+    "number": 32,
+    "de or het": "de",
+    "dutch": "grootvader",
+    "english": "grandfather",
+    "difficulty_level": "A2"
+  },
+  {
+    "number": 33,
+    "de or het": "de",
+    "dutch": "grootmoeder",
+    "english": "grandmother",
+    "difficulty_level": "A2"
+  },
+  {
+    "number": 34,
+    "de or het": "de",
+    "dutch": "kleinkind",
+    "english": "grandchild",
+    "difficulty_level": "A2"
+  },
+  {
+    "number": 39,
+    "de or het": "de",
+    "dutch": "broer",
+    "english": "brother-in-law",
+    "difficulty_level": "A2"
+  },
+  {
+    "number": 40,
+    "de or het": "de",
+    "dutch": "zus",
+    "english": "sister-in-law",
+    "difficulty_level": "A2"
+  },
+  {
+    "number": 49,
+    "de or het": "de",
+    "dutch": "adoptie",
+    "english": "adoption",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 50,
+    "de or het": "de",
+    "dutch": "pleegouder",
+    "english": "foster parent",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 15,
+    "de or het": "de",
+    "dutch": "echtgenoot",
+    "english": "husband",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 16,
+    "de or het": "de",
+    "dutch": "echtgenote",
+    "english": "wife",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 19,
+    "de or het": "de",
+    "dutch": "geliefde",
+    "english": "beloved",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 20,
+    "de or het": "de",
+    "dutch": "partner",
+    "english": "partner",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 21,
+    "de or het": "de",
+    "dutch": "verloofde",
+    "english": "fiancé",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 22,
+    "de or het": "de",
+    "dutch": "verloofde",
+    "english": "fiancée",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 24,
+    "de or het": "de",
+    "dutch": "relatie",
+    "english": "relationship",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 25,
+    "de or het": "het",
+    "dutch": "huwelijk",
+    "english": "marriage",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 26,
+    "de or het": "de",
+    "dutch": "scheiding",
+    "english": "divorce",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 35,
+    "de or het": "de",
+    "dutch": "stiefvader",
+    "english": "stepfather",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 36,
+    "de or het": "de",
+    "dutch": "stiefmoeder",
+    "english": "stepmother",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 37,
+    "de or het": "de",
+    "dutch": "stiefzoon",
+    "english": "stepson",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 38,
+    "de or het": "de",
+    "dutch": "stiefdochter",
+    "english": "stepdaughter",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 41,
+    "de or het": "de",
+    "dutch": "schoonvader",
+    "english": "father-in-law",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 42,
+    "de or het": "de",
+    "dutch": "schoonmoeder",
+    "english": "mother-in-law",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 45,
+    "de or het": "de",
+    "dutch": "ex-partner",
+    "english": "ex-partner",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 46,
+    "de or het": "de",
+    "dutch": "weduwe",
+    "english": "widow",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 47,
+    "de or het": "de",
+    "dutch": "weduwnaar",
+    "english": "widower",
+    "difficulty_level": "B1"
+  },
+  {
+    "number": 48,
+    "de or het": "de",
+    "dutch": "alleenstaande",
+    "english": "single",
+    "difficulty_level": "B1"
+  }
+]
